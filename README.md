@@ -1,6 +1,6 @@
 # GrizzlyBugReport
 
-Run with: mvn clean install exec:java
+Run with: `mvn clean install exec:java -Djava.util.logging.config.file=logging.properties`
 
 With mapping:
 ```
